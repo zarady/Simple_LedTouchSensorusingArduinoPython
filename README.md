@@ -34,7 +34,7 @@ The Python script (`python_led_control.py`) communicates with the Arduino over a
 - If encountering permission issues, grant necessary permissions to the COM port.
 
 ## Author
-[Your Name]
+Zarady
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

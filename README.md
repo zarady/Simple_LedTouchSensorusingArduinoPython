@@ -4,7 +4,7 @@
 This project demonstrates simple LED control using Arduino and Python. The Arduino code reads input from either a touch sensor or Python commands to toggle an LED.
 
 ## Arduino Code
-The Arduino code (`led_control.ino`) is designed to work with a touch sensor and respond to serial communication from Python. It toggles an LED on and off based on touch input or Python commands.
+The Arduino code (`led.ino`) is designed to work with a touch sensor and respond to serial communication from Python. It toggles an LED on and off based on touch input or Python commands.
 
 ### Components
 - Arduino Uno
@@ -12,7 +12,7 @@ The Arduino code (`led_control.ino`) is designed to work with a touch sensor and
 - LED (connected to pin 13)
 
 ## Python Code
-The Python script (`python_led_control.py`) communicates with the Arduino over a serial connection. It sends commands to turn the LED on or off and receives responses from the Arduino.
+The Python script (`GUIserial.py`) communicates with the Arduino over a serial connection. It sends commands to turn the LED on or off and receives responses from the Arduino.
 
 ### Requirements
 - Python 3.x

@@ -20,7 +20,7 @@ The Python script (`GUIserial.py`) communicates with the Arduino over a serial c
 - Exit: Click the "Exit" button to close the GUI and stop the program.
 
 ## Instructions
-- This logic is applied in the serial.py coding
+- This logic is applied in the ('serial.py') coding
 - Input 'a' to turn the LED on or off.
 - Input 'e' to exit the program.
 
